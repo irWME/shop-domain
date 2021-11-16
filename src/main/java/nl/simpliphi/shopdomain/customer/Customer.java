@@ -1,7 +1,7 @@
 package nl.simpliphi.shopdomain.customer;
 
-import io.github.alikelleci.easysourcing.common.annotations.AggregateId;
-import io.github.alikelleci.easysourcing.common.annotations.TopicInfo;
+import com.github.easysourcing.messages.annotations.AggregateId;
+import com.github.easysourcing.messages.annotations.TopicInfo;
 import lombok.Builder;
 import lombok.Value;
 
